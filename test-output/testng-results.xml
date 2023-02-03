@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="3" passed="0" failed="2" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-01T23:16:49 IST" name="opencartSuite" finished-at="2023-02-01T23:17:15 IST" duration-ms="25724">
+    <groups>
+      <group name="Master">
+        <method signature="Tc_001_AccountRegistrationTest.test_Account_Registration()[pri:0, instance:testCases.Tc_001_AccountRegistrationTest@1aa7ecca]" name="test_Account_Registration" class="testCases.Tc_001_AccountRegistrationTest"/>
+        <method signature="Tc_002_LoginTest.test_login()[pri:0, instance:testCases.Tc_002_LoginTest@52bf72b5]" name="test_login" class="testCases.Tc_002_LoginTest"/>
+      </group> <!-- Master -->
+      <group name="Sanity">
+        <method signature="Tc_002_LoginTest.test_login()[pri:0, instance:testCases.Tc_002_LoginTest@52bf72b5]" name="test_login" class="testCases.Tc_002_LoginTest"/>
+      </group> <!-- Sanity -->
+      <group name="Regression">
+        <method signature="Tc_001_AccountRegistrationTest.test_Account_Registration()[pri:0, instance:testCases.Tc_001_AccountRegistrationTest@1aa7ecca]" name="test_Account_Registration" class="testCases.Tc_001_AccountRegistrationTest"/>
+      </group> <!-- Regression -->
+    </groups>
+    <test started-at="2023-02-01T23:16:49 IST" name="opencartTest" finished-at="2023-02-01T23:17:15 IST" duration-ms="25724">
+      <class name="testCases.Tc_001_AccountRegistrationTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.Tc_001_AccountRegistrationTest@1aa7ecca]" started-at="2023-02-01T23:16:50 IST" name="setup" finished-at="2023-02-01T23:16:57 IST" duration-ms="7228" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test_Account_Registration()[pri:0, instance:testCases.Tc_001_AccountRegistrationTest@1aa7ecca]" started-at="2023-02-01T23:16:57 IST" name="test_Account_Registration" finished-at="2023-02-01T23:17:00 IST" duration-ms="2874" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[null]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: null
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.fail(Assert.java:106)
+at testCases.Tc_001_AccountRegistrationTest.test_Account_Registration(Tc_001_AccountRegistrationTest.java:52)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Account_Registration -->
+      </class> <!-- testCases.Tc_001_AccountRegistrationTest -->
+      <class name="testCases.Tc_002_LoginTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.Tc_002_LoginTest@52bf72b5]" started-at="2023-02-01T23:17:00 IST" name="setup" finished-at="2023-02-01T23:17:03 IST" duration-ms="2850" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test_login()[pri:0, instance:testCases.Tc_002_LoginTest@52bf72b5]" started-at="2023-02-01T23:17:03 IST" name="test_login" finished-at="2023-02-01T23:17:15 IST" duration-ms="11934" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[invalid login data expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: invalid login data expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotEquals(Assert.java:1037)
+at org.testng.Assert.assertEqualsImpl(Assert.java:140)
+at org.testng.Assert.assertEquals(Assert.java:122)
+at org.testng.Assert.assertEquals(Assert.java:819)
+at testCases.Tc_002_LoginTest.test_login(Tc_002_LoginTest.java:34)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_login -->
+      </class> <!-- testCases.Tc_002_LoginTest -->
+    </test> <!-- opencartTest -->
+  </suite> <!-- opencartSuite -->
+</testng-results>

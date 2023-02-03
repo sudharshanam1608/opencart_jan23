@@ -1,0 +1,79 @@
+
+23:16:57.428 [main] INFO  testCases.Tc_001_AccountRegistrationTest - *** Starting Tc_001_AccountRegistrationTest ***
+23:16:57.615 [main] INFO  testCases.Tc_001_AccountRegistrationTest - Clicked on my accouny link
+23:16:58.277 [main] INFO  testCases.Tc_001_AccountRegistrationTest - Clicked on regiister link
+23:16:58.288 [main] INFO  testCases.Tc_001_AccountRegistrationTest - providing customer data
+23:17:00.267 [main] INFO  testCases.Tc_001_AccountRegistrationTest - test failed
+23:17:03.305 [main] INFO  testCases.Tc_002_LoginTest - ***Start the Tc_002****
+23:17:04.676 [main] INFO  testCases.Tc_002_LoginTest - loginpage openned
+23:17:05.197 [main] INFO  testCases.Tc_002_LoginTest - click on login
+00:39:40.385 [main] INFO  testCases.Tc_003_LoginDDT - ***Starting TC_003_Logintest******
+00:39:40.528 [main] INFO  testCases.Tc_003_LoginDDT - clicked on my account
+00:39:41.533 [main] INFO  testCases.Tc_003_LoginDDT - open login page
+00:39:41.540 [main] INFO  testCases.Tc_003_LoginDDT - provide login credentials
+00:39:41.912 [main] INFO  testCases.Tc_003_LoginDDT - clicked on login btn
+00:39:52.198 [main] INFO  testCases.Tc_003_LoginDDT - ***Starting TC_003_Logintest******
+00:39:52.273 [main] INFO  testCases.Tc_003_LoginDDT - clicked on my account
+00:39:53.241 [main] INFO  testCases.Tc_003_LoginDDT - open login page
+00:39:53.242 [main] INFO  testCases.Tc_003_LoginDDT - provide login credentials
+00:39:53.528 [main] INFO  testCases.Tc_003_LoginDDT - clicked on login btn
+00:40:03.541 [main] INFO  testCases.Tc_003_LoginDDT - ***Starting TC_003_Logintest******
+00:40:04.765 [main] INFO  testCases.Tc_003_LoginDDT - ***Starting TC_003_Logintest******
+00:40:04.821 [main] INFO  testCases.Tc_003_LoginDDT - clicked on my account
+00:40:05.723 [main] INFO  testCases.Tc_003_LoginDDT - open login page
+00:40:05.723 [main] INFO  testCases.Tc_003_LoginDDT - provide login credentials
+00:40:05.965 [main] INFO  testCases.Tc_003_LoginDDT - clicked on login btn
+00:40:16.035 [main] INFO  testCases.Tc_003_LoginDDT - ***Starting TC_003_Logintest******
+00:40:16.092 [main] INFO  testCases.Tc_003_LoginDDT - clicked on my account
+00:40:16.989 [main] INFO  testCases.Tc_003_LoginDDT - open login page
+00:40:16.990 [main] INFO  testCases.Tc_003_LoginDDT - provide login credentials
+00:40:17.212 [main] INFO  testCases.Tc_003_LoginDDT - clicked on login btn
+00:42:02.548 [main] INFO  testCases.Tc_003_LoginDDT - ***Starting TC_003_Logintest******
+00:42:02.695 [main] INFO  testCases.Tc_003_LoginDDT - clicked on my account
+00:42:03.647 [main] INFO  testCases.Tc_003_LoginDDT - open login page
+00:42:03.650 [main] INFO  testCases.Tc_003_LoginDDT - provide login credentials
+00:42:04.029 [main] INFO  testCases.Tc_003_LoginDDT - clicked on login btn
+00:42:14.288 [main] INFO  testCases.Tc_003_LoginDDT - ***Starting TC_003_Logintest******
+00:42:14.362 [main] INFO  testCases.Tc_003_LoginDDT - clicked on my account
+00:42:15.276 [main] INFO  testCases.Tc_003_LoginDDT - open login page
+00:42:15.276 [main] INFO  testCases.Tc_003_LoginDDT - provide login credentials
+00:42:15.615 [main] INFO  testCases.Tc_003_LoginDDT - clicked on login btn
+00:42:25.668 [main] INFO  testCases.Tc_003_LoginDDT - ***Starting TC_003_Logintest******
+00:42:25.746 [main] INFO  testCases.Tc_003_LoginDDT - clicked on my account
+00:42:26.227 [main] INFO  testCases.Tc_003_LoginDDT - open login page
+00:42:26.228 [main] INFO  testCases.Tc_003_LoginDDT - provide login credentials
+00:42:26.457 [main] INFO  testCases.Tc_003_LoginDDT - clicked on login btn
+00:42:36.513 [main] INFO  testCases.Tc_003_LoginDDT - ***Starting TC_003_Logintest******
+00:42:36.582 [main] INFO  testCases.Tc_003_LoginDDT - clicked on my account
+00:42:37.478 [main] INFO  testCases.Tc_003_LoginDDT - open login page
+00:42:37.479 [main] INFO  testCases.Tc_003_LoginDDT - provide login credentials
+00:42:37.727 [main] INFO  testCases.Tc_003_LoginDDT - clicked on login btn
+00:42:47.792 [main] INFO  testCases.Tc_003_LoginDDT - ***Starting TC_003_Logintest******
+00:42:47.853 [main] INFO  testCases.Tc_003_LoginDDT - clicked on my account
+00:42:48.761 [main] INFO  testCases.Tc_003_LoginDDT - open login page
+00:42:48.761 [main] INFO  testCases.Tc_003_LoginDDT - provide login credentials
+00:42:48.966 [main] INFO  testCases.Tc_003_LoginDDT - clicked on login btn
+00:45:06.973 [main] INFO  testCases.Tc_001_AccountRegistrationTest - *** Starting Tc_001_AccountRegistrationTest ***
+00:45:07.268 [main] INFO  testCases.Tc_001_AccountRegistrationTest - Clicked on my accouny link
+00:45:07.933 [main] INFO  testCases.Tc_001_AccountRegistrationTest - Clicked on regiister link
+00:45:07.943 [main] INFO  testCases.Tc_001_AccountRegistrationTest - providing customer data
+00:45:19.820 [main] INFO  testCases.Tc_001_AccountRegistrationTest - test failed
+00:45:23.951 [main] INFO  testCases.Tc_002_LoginTest - ***Start the Tc_002****
+00:45:25.287 [main] INFO  testCases.Tc_002_LoginTest - loginpage openned
+00:45:25.977 [main] INFO  testCases.Tc_002_LoginTest - click on login
+01:02:15.540 [main] INFO  testCases.Tc_001_AccountRegistrationTest - *** Starting Tc_001_AccountRegistrationTest ***
+01:02:15.785 [main] INFO  testCases.Tc_001_AccountRegistrationTest - Clicked on my accouny link
+01:02:16.421 [main] INFO  testCases.Tc_001_AccountRegistrationTest - Clicked on regiister link
+01:02:16.428 [main] INFO  testCases.Tc_001_AccountRegistrationTest - providing customer data
+01:02:18.462 [main] INFO  testCases.Tc_001_AccountRegistrationTest - test failed
+01:02:21.645 [main] INFO  testCases.Tc_002_LoginTest - ***Start the Tc_002****
+01:02:22.401 [main] INFO  testCases.Tc_002_LoginTest - loginpage openned
+01:02:22.860 [main] INFO  testCases.Tc_002_LoginTest - click on login
+01:11:07.524 [main] INFO  testCases.Tc_001_AccountRegistrationTest - *** Starting Tc_001_AccountRegistrationTest ***
+01:11:07.706 [main] INFO  testCases.Tc_001_AccountRegistrationTest - Clicked on my accouny link
+01:11:08.364 [main] INFO  testCases.Tc_001_AccountRegistrationTest - Clicked on regiister link
+01:11:08.368 [main] INFO  testCases.Tc_001_AccountRegistrationTest - providing customer data
+01:11:10.244 [main] INFO  testCases.Tc_001_AccountRegistrationTest - test failed
+01:11:14.913 [main] INFO  testCases.Tc_002_LoginTest - ***Start the Tc_002****
+01:11:15.656 [main] INFO  testCases.Tc_002_LoginTest - loginpage openned
+01:11:16.579 [main] INFO  testCases.Tc_002_LoginTest - click on login
